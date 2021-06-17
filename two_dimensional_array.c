@@ -1,5 +1,5 @@
 /*
-tic-tac-toe游戏
+tic-tac-toe游戏            //push it to github
 读入一个3X3的矩阵，矩阵中的数字为1表
 示该位置上有一个X，为0表示为O
 程序判断这个矩阵中是否有获胜的一方，
