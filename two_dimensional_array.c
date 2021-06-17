@@ -4,7 +4,7 @@ tic-tac-toe游戏            //push it to github
 示该位置上有一个X，为0表示为O
 程序判断这个矩阵中是否有获胜的一方，
 输出表示获胜一方的字符X或O，或输出无人获胜
-*/
+*/      //right
 
 #include <stdio.h>
 int main() 
