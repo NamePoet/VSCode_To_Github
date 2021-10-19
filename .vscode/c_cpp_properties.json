@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:/Program Files (x86)/Dev-Cpp/MinGW64/include/*",
+                "C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/*"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c99",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/gcc",
+            "compilerArgs": [
+                "-std=c99"
+            ]
+        }
+    ],
+    "version": 4
+}
