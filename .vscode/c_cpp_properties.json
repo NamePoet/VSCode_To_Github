@@ -16,7 +16,8 @@
             "intelliSenseMode": "gcc-x64",
             "compilerPath": "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/gcc",
             "compilerArgs": [
-                "-std=c99"
+                "-std=c99",
+                "-std=c++11"
             ]
         }
     ],
