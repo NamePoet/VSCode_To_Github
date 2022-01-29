@@ -10,6 +10,7 @@
             "args": [
                 "-g",
                 "\"${file}\"",
+                "-std=c++11",
                 "-o",
                 "\"${fileDirname}\\${fileBasenameNoExtension}.exe\""
                 // 设置编译后的可执行文件的字符集为 GB2312：
