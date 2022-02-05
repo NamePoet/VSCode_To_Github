@@ -7,7 +7,7 @@ struct polar
 {
     double distance;   // distance from origin
     double angle;      // direction from origin
-};
+};                                                      
 struct rect
 {
     double x;  // horizontal distance from origin
@@ -18,11 +18,11 @@ struct rect
 polar rect_to_polar(rect xypos);
 void show_polar(polar dapos);
 
-int main()
-{
-    using namespace std;
-    rect rplace;
-    polar pplace;
+int main()   
+{                                                                                                                                                
+    using namespace std;                            
+    rect rplace;                                                                                                                                                                                     
+    polar pplace;                                                                       
 
     cout << "Enter the x and y values: ";
     while (cin >> rplace.x >> rplace.y)  // slick use of cin
