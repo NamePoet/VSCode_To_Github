@@ -1,0 +1,7 @@
+Focal length of objective: 500 mm
+f.l. eyepiece  magnification
+        15.0             33
+        18.0             28
+        20.0             25
+        14.0             36
+        17.0             29
