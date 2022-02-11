@@ -24,3 +24,5 @@ class Stock
 
 
 #endif
+
+// invoke 调用的函数
