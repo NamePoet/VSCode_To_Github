@@ -13,7 +13,7 @@ class Stock
         void set_tot() { total_val = shares * share_val; }
     public:
         // two constructors
-        Stock();  // default constructor —— 构造函数原型
+        Stock();  // default constructor —— 构造函数原型，都是赋值语句
         Stock(const std::string & co, long n = 0, double pr = 0.0);
         ~Stock(); // noisy constructor —— 析构函数原型
         void buy(long num, double price);
